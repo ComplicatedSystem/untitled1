@@ -1,12 +1,17 @@
-.welcome_header {
+.WelcomeHeader {
     text-align: center;
     color: #d9caca;
     font-family: Bahnschrift;
     font-size: 100px;
 }
-.welcome_text {
+.WelcomeText {
     text-align: center;
     color: #d9caca;
     font-family: Bahnschrift;
     font-size: 20px;
+}
+.WelcomeImage {
+    text-align: center;
+    width: 300px;
+    height: 500px;
 }
